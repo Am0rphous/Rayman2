@@ -12,6 +12,14 @@ sha256sum   c36818b300b7dd998fa4f203578f59ea3c0c7c62396827e9df6b4edb3a22f7b4
 sha512sum:  144b15360671ffcab81243e4adbcdfe656a3550cb7c1e958e17ed5e199c6ed9883209f455f0247e98e7f249d32adf880b3bf0913b3eb22201a9af99f8207b0d3
 ````
 
+### Recommended requirements
+````
+XP / Vista / 7 / 8
+1.4 GHz Processor
+512MB RAM
+3D graphics card compatible with DirectX 9
+Mouse, Keyboard
+````
 
 ### Repos that might come in handy
 - [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/DaedalusX64-vitaGL) - Daedalus X64 port for PSVITA through vitaGL.
