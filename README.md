@@ -1,6 +1,6 @@
 # Rayman 2 - The Great Escape
 
-If you like this game, please support the developers by purchasing the game.
+If you like this game, please support the developers by [purchasing the game](https://store.ubi.com/upc/anz/rayman-2--the-great-escape/57062ec088a7e316728b465a.html).
 
 This is a clean rip of the legendary game Rayman 2 - The Great Escape from 1999.
 
