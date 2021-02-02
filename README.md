@@ -11,6 +11,7 @@ sha256sum   c36818b300b7dd998fa4f203578f59ea3c0c7c62396827e9df6b4edb3a22f7b4
 sha512sum:  144b15360671ffcab81243e4adbcdfe656a3550cb7c1e958e17ed5e199c6ed9883209f455f0247e98e7f249d32adf880b3bf0913b3eb22201a9af99f8207b0d3
 ````
 
+- [PortingKit Emulator](https://portingkit.com/download)
 - [RayWiki](https://raymanpc.com/wiki/en/Rayman_2)
 
 ### Recommended requirements
