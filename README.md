@@ -1,5 +1,7 @@
 # Rayman 2 - The Great Escape
 
+If you like this game, please support the developers by purchasing the game.
+
 This is a clean rip of the legendary game Rayman 2 - The Great Escape from 1999.
 
 The content has the following checksums:
