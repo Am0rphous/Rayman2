@@ -24,6 +24,8 @@ Mouse, Keyboard
 ````
 
 ### Repos that might come in handy
+- [**Rayman Control Panel**](https://github.com/RayCarrot/RayCarrot.RCP.Metro) - "purpose of this program is to unify existing game patches and fixes, as well as allowing extended configuration, for all PC Rayman games."
+
 - [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/DaedalusX64-vitaGL) - Daedalus X64 port for PSVITA through vitaGL.
   - [Issue - Rayman 2 - The Great Escape #105](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues/105)
 - [Rayman2FunBox](https://github.com/rtsonneveld/Rayman2FunBox) - Pack of a few fun mods for Rayman 2 on PC using memory editing, notably the First Person Mod.
